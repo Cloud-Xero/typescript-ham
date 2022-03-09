@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cloud-Xero/typescript-ham/issues"
   },
-  "homepage": "https://github.com/Cloud-Xero/typescript-ham#readme"
+  "homepage": "https://github.com/Cloud-Xero/typescript-ham#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
